@@ -12,7 +12,7 @@ This colaboratory (colab) will help you get prepared for the tutorials (practica
 * GraphNets
 * VAEs
 
-Here you will get familiar with the environment and tools used in the tutorials. **We strongly encourage you to go through this tutorial before the school**. Work through this colab, making sure you understand and can reason about the code. **The later lab sessions build on the contents of this colab.**.
+Here you will get familiar with the environment and tools used in the tutorials. **We strongly encourage you to go through this tutorial before the school**. Work through this colab, making sure you understand and can reason about the code. **The later lab sessions build on the contents of this colab**.
 
 _Special thanks to the authors of educational material at DeepMind, as their work was a great resource for the creation of this lab_.
 
